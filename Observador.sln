@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observador", "Observador\Observador.csproj", "{2D12D004-3A90-4BC3-8D8F-DFE114A0FAAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D12D004-3A90-4BC3-8D8F-DFE114A0FAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D12D004-3A90-4BC3-8D8F-DFE114A0FAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D12D004-3A90-4BC3-8D8F-DFE114A0FAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D12D004-3A90-4BC3-8D8F-DFE114A0FAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F629A18-E7AA-4921-B50B-BDF791844B36}
+	EndGlobalSection
+EndGlobal

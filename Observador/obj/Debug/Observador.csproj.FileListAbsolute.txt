@@ -1,0 +1,14 @@
+C:\Users\Curso\source\repos\Observador\Observador\bin\Debug\Observador.exe.config
+C:\Users\Curso\source\repos\Observador\Observador\bin\Debug\Observador.exe
+C:\Users\Curso\source\repos\Observador\Observador\bin\Debug\Observador.pdb
+C:\Users\Curso\source\repos\Observador\Observador\obj\Debug\Observador.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\Observador\Observador\obj\Debug\Observador.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\Observador\Observador\obj\Debug\Observador.exe
+C:\Users\Curso\source\repos\Observador\Observador\obj\Debug\Observador.pdb
+C:\Users\Curso\source\repos\Observador\Observador\bin\Debug\EntityFramework.dll
+C:\Users\Curso\source\repos\Observador\Observador\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Curso\source\repos\Observador\Observador\bin\Debug\EntityFramework.xml
+C:\Users\Curso\source\repos\Observador\Observador\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Curso\source\repos\Observador\Observador\obj\Debug\Observador.csproj.CopyComplete
+C:\Users\Curso\source\repos\Observador\Observador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Curso\source\repos\Observador\Observador\bin\Debug\Newtonsoft.Json.xml
